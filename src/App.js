@@ -12,7 +12,7 @@ function App() {
   const [movies, setMovies] = useState("");
 
   useEffect(() => {
-    searchmovies("rock");
+    searchmovies("batman");
   },[])
 
 
